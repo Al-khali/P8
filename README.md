@@ -42,7 +42,7 @@ dont l'opinion peut être très variable. Le prix du vin dépend dans une certai
 
 ### 5. liste des different fichier du projets
 - Data set: winequality-red.csv
-- List of R-codes: Indv_Proj.Rmd
+- List of R-codes: P8_codesource.Rmd 
 - Report document: P8_Aourik_khalid
 
 ### 6. reference :
